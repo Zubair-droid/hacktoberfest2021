@@ -63,4 +63,3 @@ int main()
 // Second Array: 10 13 15 20
 
 
-// Program by Nayan Vishwakarma: @nayan1xyz 
